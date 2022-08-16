@@ -1,0 +1,412 @@
+body{
+    width: 100%;
+    height: auto;
+}
+.navbar .navbar-brand{
+    height: 70px !important;
+    background-color: aliceblue;
+    border-radius: 50px;
+}
+.navbar .navbar-brand img{
+    width: 150px;
+    height: 70px;
+}
+.navbar .form-inline input{
+    text-align: center;
+    width: 800px;
+    margin-left: 200px;
+}
+.navbar .flag{
+    width: 0px !important;
+    height: 0px !important;
+}
+.navbar .flag img{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    bottom: 30px;
+    left: 250px;
+}
+.nav22{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(45, 50, 48);
+    position: relative;
+}
+.nav22 button{
+    font-size: 15px;
+}
+
+@media(max-width:1440px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 972px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 18px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 0px;
+    }
+
+}
+@media(max-width:1024px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 672px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 13px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 5px;
+    }
+
+}
+@media(max-width:769px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 400px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 9px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 8px;
+    }
+}
+
+@media(max-width:426px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 300px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 9px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 8px;
+    }
+}
+@media(max-width:376px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 260px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 7px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 8px;
+    }
+}
+
+@media(max-width:320px){
+    .navbar{
+        height: 100px;
+    }
+    .navbar .navbar-brand{
+        width: 100px !important;
+        height: 50px !important;
+    }
+    .navbar .navbar-brand img{
+        width: 100px;
+        height: 50px;
+    }
+    .navbar .form-inline input{
+        width: 210px;
+        height: 25px;
+        margin-left: 10px;
+    }
+    .navbar .form-inline button{
+        height: 25px;
+        font-size: small;
+        text-align: center;
+    }
+    .navbar .flag{
+        background-color: rgba(20, 123, 213, 0);
+    }
+    .navbar .flag img{
+        width: 40px;
+        height: 20px;
+        bottom: 115px;
+        left: 150px;
+    }
+    .nav22{
+        height: 50px !important;
+    }
+    .nav22 button{
+        margin: 0px;
+        padding: 0px;
+        font-size: 7px;
+    }
+    .nav22 .btn22{
+        float: right !important;
+        margin-top: 8px;
+    }
+}
+
+.sale1{
+    display: inline-block;
+    width: 1100px;
+    /* background-color: aqua; */
+}
+.rightnav{
+    width: 300px;
+    height: 600px;
+    display: inline-block;
+    /* background-color: aqua; */
+    position: relative;
+    left: 50px;
+    bottom:600px;
+}
+@media(max-width:1440px){
+    .rightnav{
+        width: 200px;
+    }
+}
+@media(max-width:1024px){
+    .sale1{
+        width: 900px;
+    }
+    .rightnav{
+        left: 700px;
+        bottom: 1500px;
+    }
+
+}
+@media(max-width:768px){
+    .rightnav{
+        width: 150px;
+        left: 10px;
+        bottom: 1200px;
+    }
+    .sale1{
+        width: 500px;
+    }
+}
+@media(max-width:426px){
+    .sale1{
+        width: 300px;
+    }
+    .rightnav{
+        width: 120px;
+        left: 10px;
+        bottom: 3000px;
+    }
+}
+@media(max-width:376px){
+    .sale1{
+        width: 250px;
+    }
+    .rightnav{
+        width: 110px;
+        left: 10px;
+        bottom: 2800px;
+    }
+}
+
+@media(max-width:321px){
+    .sale1{
+        width: 250px;
+    }
+    .rightnav{
+        width: 65px;
+        left: 0px;
+        bottom: 2800px;
+    }
+}
+.sale22{
+    width: 100%;
+    height: auto;
+    display: block;
+    /* background-color: blue; */
+    position: relative;
+    bottom: 450px;
+    text-align: center;
+}
+.end2{
+    width: 100%;
+    height: auto;
+    background-color: rgb(56, 65, 65);
+    text-align: center;
+    position: relative;
+}
+.end2 .bob{
+    position: relative;
+    width: 20%;
+    height: auto;
+    /* background-color: aqua; */
+    padding-left: 10px;
+    display: inline-block;
+
+
+}
+.end2 .bob a{
+    display: block;
+    text-decoration: none;
+}
+.end3{
+    background-color: rgb(56, 65, 65);
+
+}
